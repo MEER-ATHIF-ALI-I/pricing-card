@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pricing-card/static/css/main.5cf0fea1.chunk.css",
+    "main.js": "/pricing-card/static/js/main.317d60f0.chunk.js",
+    "main.js.map": "/pricing-card/static/js/main.317d60f0.chunk.js.map",
+    "runtime-main.js": "/pricing-card/static/js/runtime-main.ea71f5d1.js",
+    "runtime-main.js.map": "/pricing-card/static/js/runtime-main.ea71f5d1.js.map",
+    "static/js/2.2bb3fbd5.chunk.js": "/pricing-card/static/js/2.2bb3fbd5.chunk.js",
+    "static/js/2.2bb3fbd5.chunk.js.map": "/pricing-card/static/js/2.2bb3fbd5.chunk.js.map",
+    "static/js/3.8a8ab403.chunk.js": "/pricing-card/static/js/3.8a8ab403.chunk.js",
+    "static/js/3.8a8ab403.chunk.js.map": "/pricing-card/static/js/3.8a8ab403.chunk.js.map",
+    "index.html": "/pricing-card/index.html",
+    "static/css/main.5cf0fea1.chunk.css.map": "/pricing-card/static/css/main.5cf0fea1.chunk.css.map",
+    "static/js/2.2bb3fbd5.chunk.js.LICENSE.txt": "/pricing-card/static/js/2.2bb3fbd5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea71f5d1.js",
+    "static/js/2.2bb3fbd5.chunk.js",
+    "static/css/main.5cf0fea1.chunk.css",
+    "static/js/main.317d60f0.chunk.js"
+  ]
+}
